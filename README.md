@@ -56,13 +56,6 @@ chmod g+w -R tmp/
 * **View:** El componente vista es el encargado de mostrar las respuestas que obtiene del controlador, nuevamente mediante el middleware PSR-7, ahora con el Response, mostramos la petición al usuario final de forma amigable.
 
 
-
-## Ejecutando los test
-
-Explicar como ejecutamos las pruebas automatizadas del sistema.
-
-
-
 ## Autores
 
 * **Diego Añazco** - *Estudiante de Ing. Software - Universidad La Salle* 
