@@ -61,6 +61,9 @@ Para el proyecto se utilizó la metodología SCRUM, junto con Kanvas para realiz
 
 <a href="https://imgur.com/KpOHpcj"><img src="https://i.imgur.com/KpOHpcj.png" title="source: imgur.com" /></a>
 
+## Carta Gantt
+
+Se diseñó una Carta Gantt para la implementación de la aplicación, el grupo definió tres días a la semana (lunes, jueves y sábado) para trabajar en el proyecto, además, no se trabajará en la semana de parciales, debido a la carga que pueden generar los mismos. En la carpeta Documentación, se puede ver la Carta Gantt a la fecha (16/05/2020).
 
 ## Autores
 
