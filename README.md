@@ -55,6 +55,10 @@ chmod g+w -R tmp/
 * **Model:** El modelo contendrá las tablas y entidades que se van a consumir de la base de datos 
 * **View:** El componente vista es el encargado de mostrar las respuestas que obtiene del controlador, nuevamente mediante el middleware PSR-7, ahora con el Response, mostramos la petición al usuario final de forma amigable.
 
+## Metodología SCRUM
+
+Para el proyecto se utilizó la metodología SCRUM, junto con Kanvas para realizar las historias de usuario. El proyecto adaptó esta metodología y la plasmó en un tablero TRELLO. 
+
 
 ## Autores
 
