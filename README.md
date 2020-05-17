@@ -33,7 +33,7 @@ Warning(2): Cannot modify header information - headers already sent by (output s
 projectroot/vendor/cakephp/cakephp/scr/Error/Debugger.php)
 ```
 
-Ambos warnings se deben a permisos del usuario al momento de descomprimir el proyecto en el nuevo servidor o computadora local. Estos warnings se solucionan con los siguientes comandos:
+Ambos warnings se deben a permisos del usuario al momento de descomprimir el proyecto en el nuevo servidor o computadora local. Estos warnings se solucionan con los siguientes comandos en la carpeta del proyecto:
 
 ```
 sudo chown 'nombredeusuario':www-data -R tmp/
