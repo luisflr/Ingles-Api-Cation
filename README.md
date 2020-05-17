@@ -57,7 +57,9 @@ chmod g+w -R tmp/
 
 ## Metodología SCRUM
 
-Para el proyecto se utilizó la metodología SCRUM, junto con Kanvas para realizar las historias de usuario. El proyecto adaptó esta metodología y la plasmó en un tablero TRELLO. 
+Para el proyecto se utilizó la metodología SCRUM, junto con Kanvas para realizar las historias de usuario. El proyecto adaptó esta metodología y la plasmó en un tablero TRELLO (https://trello.com/b/FYblIVxF). Únicamente los miembros del tablero pueden verlo y modificarlo, sin embargo, mostramos como es que se desarrolló hasta el primer Sprint.
+
+<a href="https://imgur.com/KpOHpcj"><img src="https://i.imgur.com/KpOHpcj.png" title="source: imgur.com" /></a>
 
 
 ## Autores
